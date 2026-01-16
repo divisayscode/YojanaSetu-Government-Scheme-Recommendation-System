@@ -118,10 +118,4 @@ This demonstrated a significant improvement in correctness and response quality.
 This project demonstrates how combining **semantic search with generative reasoning** significantly improves accuracy and usability for real-world information retrieval tasks.  
 YojanaSetu highlights the importance of **context-aware AI systems** for public-facing applications.
 
----
 
-## Future Scope
-- Expansion to official government portals
-- Multilingual query support
-- Eligibility-aware filtering
-- Deployment as a public web application
